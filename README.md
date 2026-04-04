@@ -122,13 +122,12 @@
 
 <b><i>Currently focused on:</i></b><br><br>
 
-<b><i>🙂 Data Science & Data Analysis</i></b> — turning raw data into ~~confusion~~ insights<br>
-<b><i>😄 Predictive Analytics</i></b> — forecasting outcomes with math and mild optimism<br>
+<b><i>🙂 Mern Stack</i></b> — Building full-stack applications and transforming raw data into actionable insights<br>
 <b><i>😊 AI / Machine Learning / Neural Networks</i></b> — teaching models patterns I barely understand<br>
 <b><i>🙂 SQL & Databases</i></b> — asking tables the right questions (eventually)<br>
 <b><i>😌 Business Analysis</i></b> — making sure insights don’t die in a slide deck<br>
 <b><i>🙂 Python</i></b> — the glue holding all of this together<br>
-<b><i>😄 Java & DSA</i></b> — ~~survived~~ learned, still respected<br>
+<b><i>😄 CPP & DSA</i></b> — Strong foundation in algorithms, problem-solving, and optimized coding<br>
 
 </div>
 <br>
